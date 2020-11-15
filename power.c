@@ -1,6 +1,6 @@
 #include "myMath.h"
 
-#define e 2.7182
+#define e 2.71828182845904524
 
 double power (double x , int y){
 double answer = 1;
